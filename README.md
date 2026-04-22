@@ -25,4 +25,4 @@ https://ndiitwanisimnikiwe2-collab.github.io/MyCV
 
 ## 📬 Contact
 - Email: simnikiwendiitwani@gmail.com
-- LinkedIn: https://linkedin.com/in/simnikiwe-ndiitwani
+- LinkedIn: https://linkedin.com/in/simnikiwe-ndiitwani-529993391?
