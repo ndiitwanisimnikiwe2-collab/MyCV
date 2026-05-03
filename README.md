@@ -1,28 +1,28 @@
 # MyCV
-# 🌐 MyCV - Personal Portfolio Website
+# MyCV - Personal Portfolio Website
 
 This is my personal CV website built using HTML and CSS and deployed using GitHub Pages.
 
-## 🚀 Live Website
-https://ndiitwanisimnikiwe2-collab.github.io/MyCV
+##Live Website
+https://github.com/ndiitwanisimnikiwe2-collab/MyCV
 
-## 📌 Features
+## Features
 - Clean and modern design
 - Responsive layout
 - Sections for skills, education, and experience
 - Hosted online
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - HTML5
 - CSS3
 - GitHub Pages
 
-## 📂 Files Included
+##  Files Included
 - index.html
 - style.css
 - my_cv.png (screenshot)
 - my_cv.txt (URL)
 
-## 📬 Contact
+## Contact
 - Email: simnikiwendiitwani@gmail.com
-- LinkedIn: https://linkedin.com/in/simnikiwe-ndiitwani-529993391?
+- LinkedIn: https://www.linkedin.com/in/simnikiwe-ndiitwani-529993391/
